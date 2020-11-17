@@ -14,7 +14,7 @@
     {"x": 582, "y": 185},
     {"x": 633, "y": 200}
   ],
-  "links": [
+  "edges": [
     {"source":  0, "target":  1},
     {"source":  1, "target":  2},
     {"source":  2, "target":  0},
